@@ -81,6 +81,6 @@ Note: .obsidian file is preloaded with my preferred hotkeys and some settings. Y
 
 This is the full configuration setting that I use including plugin downloads.
 
-Download: https://drive.google.com/file/d/11Tt0ri_genykSDAih5oa4B4eQS3InYjp/view?usp=sharing
+Download: https://drive.google.com/file/d/16C51cTQLuAs91cXwse-5HYQ76UA8KCuL/view?usp=sharing
 
 ___
