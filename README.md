@@ -79,8 +79,6 @@ Note: .obsidian file is preloaded with my preferred hotkeys and some settings. Y
 
 ### Optional Full .obsidian Configuration File
 
-This is the full configuration setting that I use including plugin downloads.
-
-Download: https://drive.google.com/file/d/11Tt0ri_genykSDAih5oa4B4eQS3InYjp/view?usp=sharing
+To use my full configurations such as plugins, simply replace the current .obsidian folder with custom_.obsidian_config.zip (download from releases page)
 
 ___
