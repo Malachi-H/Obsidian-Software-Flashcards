@@ -4,7 +4,7 @@ Flashcards to be used with the Obsidian SpacedRepetition Plugin.
 
 ___
 
->Obsidian App Download: https://obsidian.md/download 
+Obsidian App Download: https://obsidian.md/download 
 
 ___
 ## Required community plugins:
@@ -13,6 +13,8 @@ ___
 
 ___
 ## My Configurations
+
+Note: .obsidian file is preloaded with my preferred hotkeys and some settings. You may reset them if you wish 
 ### Optional Community Plugins I Use:
 
 - "advanced-cursors"
