@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c50df7b30d9ecd5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +161,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4d66aa308679f3ef",
+  "active": "7c50df7b30d9ecd5",
   "lastOpenFiles": [
+    "Software Revision.md",
+    "Software Licences.md",
+    "Development Approaches.md",
+    "README.md",
+    "Obsidian_Software_Flashcards.zip",
+    "Obsidian_Software_Flashcards.zip.tmp",
     "Binary Operations.md"
   ]
 }

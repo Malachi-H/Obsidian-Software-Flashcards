@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-tag:daily-journal -path:Templates -tag:Daily-Note -path:plugins -path:dataview",
   "showTags": false,
   "showAttachments": false,
@@ -7,34 +7,6 @@
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "tag:#maths",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#english",
-      "color": {
-        "a": 1,
-        "rgb": 5431466
-      }
-    },
-    {
-      "query": "tag:#physics",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#multimedia",
-      "color": {
-        "a": 1,
-        "rgb": 16746496
-      }
-    },
     {
       "query": "tag:#softwaredd",
       "color": {
@@ -49,10 +21,10 @@
   "nodeSizeMultiplier": 1.00263157894737,
   "lineSizeMultiplier": 0.736694386694387,
   "collapse-forces": false,
-  "centerStrength": 0.786902286902287,
+  "centerStrength": 0.64968814968815,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.3389379713411957,
+  "linkDistance": 249,
+  "scale": 0.5753123120747344,
   "close": true
 }
