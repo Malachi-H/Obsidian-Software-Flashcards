@@ -7,11 +7,19 @@ ___
 Obsidian App Download: https://obsidian.md/download 
 
 ___
+
 ## Required community plugins:
 
 - Spaced Repetition
 
 ___
+
+## Note
+
+If you find any errors with the cards, please submit a issue.
+
+___
+
 ## My Configurations
 
 Note: .obsidian file is preloaded with my preferred hotkeys and some settings. You may reset them if you wish 
