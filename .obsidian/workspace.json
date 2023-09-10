@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "241a1603553a5d03",
+        "id": "53d9125c4f59d6eb",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d3db0fe5bd8c72",
+            "id": "5ee98535f59f58a2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,14 +128,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "fb2385c6caab6dc5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "055a4a16c45e783b",
+  "active": "5ee98535f59f58a2",
   "lastOpenFiles": [
+    "Methods of Installation.md",
+    "CASE tools.md",
     "Unit Conversions.md",
     "System or Solution Models.md",
     "Sorting Algorithms.md",
@@ -158,7 +167,6 @@
     "README.md",
     "Quite Unorganised.md",
     "Project Management Techniques.md",
-    "Methods of Installation.md",
     "Internals of a CPU.md",
     "Files.md",
     "Dynamic Link Libraries.md",
@@ -166,7 +174,6 @@
     "Desk Check.md",
     "Code Execution.md",
     "Circuits.md",
-    "CASE tools.md",
     "Binary Operations.md",
     "attachments/System Flow Chart.png",
     "attachments/System Flow Chart - Input and Output.png",
