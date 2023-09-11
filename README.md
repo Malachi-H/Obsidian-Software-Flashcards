@@ -82,3 +82,5 @@ Note: .obsidian file is preloaded with my preferred hotkeys and some settings. Y
 To use my full configurations such as plugins, simply replace the current .obsidian folder with custom_.obsidian_config.zip (download from releases page)
 
 ___
+
+
