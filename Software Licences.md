@@ -17,9 +17,11 @@ Are you allowed to modify software that is protected under a **Commercial** copy
 ?
 No
 
+
 Are you allowed to reverse engineer / decompile software protected by a **Commercial** copyright licence?
 ?
 No
+
 
 Are you allowed to use software protected by a **Commercial** copywrite licence as part of another project?
 ?
@@ -29,6 +31,7 @@ No
 Is a **Open Source** copyright licence covered by copyright? 
 ?
 Yes
+
 
 Are you allowed to copy software under a **Open Source** copyright licence?
 ?

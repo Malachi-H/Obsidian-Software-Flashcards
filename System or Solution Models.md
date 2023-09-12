@@ -20,15 +20,16 @@ What type of diagram is depicted in the following image?
 ?
 [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4) 
 
-In a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4), what shape is used to represent external entities?;; A circle
+In a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4), what shape is used to represent external entities?;; A Rectangle
 
-In a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4), what shape is used to represent processes?;; A rectangle
+In a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4), what shape is used to represent processes?;; A Circle
 
 Are flow direction arrows required on a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)?;; Yes
 
 Are data labels required on a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)?;; Yes
 
 Are databases needed in a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)?;; No
+
 
 Can [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)lines be curved?;; Yes 
 
@@ -214,11 +215,13 @@ Can [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCG
 
 Do [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11) need arrows to indicate direction of data flow?;; No
 
+
 What is the symbol used to represent a module in a [Structure Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; Rectangle
 
 How is data movement represented in a structure chart?;; By Labelled Parameters
 
 How are parameters represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; As small not filled in circles with connected arrows indicating the direction of data movement. Text labels are next to each parameter to describe the data.
+
 
 What are parameters in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; Data movement variables that are parsed between subroutines. 
 
@@ -229,6 +232,7 @@ How are flags represented in [Structure Charts](https://docs.google.com/presenta
 How are optional subroutine / module calls represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; As Diamonds overlaying the connection line.
 
 How are binary decisions represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; as a right angle symbol between the two connection lines of the models/processes that follow the decision.
+
 
 How are loops / repetition represented in structure charts?;; As an arced arrow forming half an oval around the connection line or lines.
 

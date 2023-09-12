@@ -324,5 +324,14 @@
       "key": "E"
     }
   ],
-  "obsidian-excalidraw-plugin:toggle-lock": []
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ]
 }

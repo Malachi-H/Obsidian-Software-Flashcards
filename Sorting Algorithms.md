@@ -13,7 +13,7 @@ List the 3 relevant sorting algorithms:
 - Selection Sort
 
 
-What is does bubble sort do?
+What does bubble sort do?
 ?
 Swaps adjacent values to "bubble" the larger/smaller values to the end/begging of the list
 

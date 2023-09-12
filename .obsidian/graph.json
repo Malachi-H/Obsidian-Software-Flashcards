@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-tag:daily-journal -path:Templates -tag:Daily-Note -path:plugins -path:dataview",
   "showTags": false,
   "showAttachments": false,
@@ -21,10 +21,10 @@
   "nodeSizeMultiplier": 1.00263157894737,
   "lineSizeMultiplier": 0.736694386694387,
   "collapse-forces": false,
-  "centerStrength": 0.64968814968815,
+  "centerStrength": 0.786902286902287,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 249,
-  "scale": 0.5753123120747344,
+  "linkDistance": 437,
+  "scale": 0.5104254723427255,
   "close": true
 }

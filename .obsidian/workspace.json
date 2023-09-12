@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "e4736e8c1ba5d2c8",
+    "id": "2920162fe4a820aa",
     "type": "split",
     "children": [
       {
-        "id": "42e6db04a427eab4",
+        "id": "7232c5501c7f75d7",
         "type": "tabs",
         "children": [
           {
-            "id": "4d66aa308679f3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c50df7b30d9ecd5",
+            "id": "8c50b4116393a2b9",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "17604a081d6fc400",
+    "id": "4ba9b26e3a6a691d",
     "type": "split",
     "children": [
       {
-        "id": "044a1facfb869682",
+        "id": "9d7a2844a6cf6d73",
         "type": "tabs",
         "children": [
           {
-            "id": "9f68203b7985e2c4",
+            "id": "31ef4308a7e6834e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +39,7 @@
             }
           },
           {
-            "id": "2016d6dd5e63af0a",
+            "id": "0afa53d6dd35e6e5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +54,7 @@
             }
           },
           {
-            "id": "7303ed90defb1687",
+            "id": "1658e3732c5144b8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "70e274751994c54d",
+    "id": "9a992096cbdadd31",
     "type": "split",
     "children": [
       {
-        "id": "aa04a171c10e2fca",
+        "id": "8db0a8f79aa9d810",
         "type": "tabs",
         "children": [
           {
-            "id": "d4c4b5730121724d",
+            "id": "c3c7ae469f0be01a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -105,7 +92,7 @@
             }
           },
           {
-            "id": "0f44091d1cd22ac0",
+            "id": "4f5c9c019a29180b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +103,7 @@
             }
           },
           {
-            "id": "9787e65af5e3d536",
+            "id": "fdd48303a5dd4bd2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,7 +114,7 @@
             }
           },
           {
-            "id": "c3b88e749b7b1278",
+            "id": "907393331cf1ea09",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -135,7 +122,7 @@
             }
           },
           {
-            "id": "873663b87455ba2e",
+            "id": "00738dfad807df0b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -161,14 +148,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7c50df7b30d9ecd5",
+  "active": "00738dfad807df0b",
   "lastOpenFiles": [
-    "Software Revision.md",
-    "Software Licences.md",
-    "Development Approaches.md",
-    "README.md",
-    "Obsidian_Software_Flashcards.zip",
-    "Obsidian_Software_Flashcards.zip.tmp",
-    "Binary Operations.md"
+    "Software Flashcards V3.zip",
+    "Software Flashcards V3.zip.tmp"
   ]
 }

@@ -46,6 +46,7 @@ ___
 		- Interface design in consultation with client
 		- Project is broken down into modules
 	- Software Development Cycle Stage 3;; Implementing the Solution
+
 		- Solution is coded in a programming language
 		- Each module is tested as it is coded and then tested in combination with others
 		- Documentation is made

@@ -41,6 +41,7 @@ What are the characteristics of the **Prototyping** development approach charact
 ?
 Client involvement, successive prototypes
 
+
 What is the **Prototyping** development approach suited for?
 ?
 UI/user-focused projects, unique needs/small budget
