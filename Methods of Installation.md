@@ -65,6 +65,7 @@ What is the Phased Installation method?
 - Gradual change from old system to new.
 - New product introduced one part at a time
 - Often used when product is still under development. 
+<!--SR:!2023-10-01,3,250-->
 
 Which Method of Installation is described by the following characteristics?
 - Gradual change from old system to new.
