@@ -22,6 +22,7 @@ What is the Direct Cut-Over Installation method?
 - Used when not feasible to run both systems at the same time
 - Data must be converted and imported from old system.
 - Users must be trained on new system prior to installation 
+<!--SR:!2023-10-02,4,270-->
 
 Which Method of Installation is described by the following characteristics?
 - Old system is dropped and new system installed at the same time.
