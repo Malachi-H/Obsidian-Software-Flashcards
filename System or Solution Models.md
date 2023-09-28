@@ -75,6 +75,7 @@ What is a [System Flow Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz
 - Shows the media used 
 
 Can the lines in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8) be curved?;; No
+<!--SR:!2023-10-01,3,250-->
 
 Do the lines in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8) need arrows to indicate direction of flow?;; Yes
 
@@ -223,6 +224,7 @@ How is data movement represented in a structure chart?;; By Labelled Parameters
 How are parameters represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; As small not filled in circles with connected arrows indicating the direction of data movement. Text labels are next to each parameter to describe the data.
 
 What are parameters in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; Data movement variables that are parsed between subroutines. 
+<!--SR:!2023-09-29,1,230-->
 
 What are flags in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; A control parameter. Like a normal parameter but can only be a Boolean value.
 
@@ -246,6 +248,7 @@ What is an [IPO Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCG
 - The outputs to the major processes are recorded 
 
 Can an [IPO Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p13) process section have multiple instructions?;; Yes. Describes all the instructions in the process
+<!--SR:!2023-10-01,3,250-->
 
 Are the data types of inputs and outputs required in an [IPO Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p13)?;; No
 
