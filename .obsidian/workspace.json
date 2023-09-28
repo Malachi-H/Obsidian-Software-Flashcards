@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f210cd6c9e734b72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +147,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "28de8d62454a1ac6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -155,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ee98535f59f58a2",
+  "active": "f210cd6c9e734b72",
   "lastOpenFiles": [
     "Methods of Installation.md",
     "CASE tools.md",
