@@ -60,8 +60,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e68feae334dcab5e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -128,9 +137,35 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "120acb0c79c212bb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "03aa08246d4781e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "16dbf8f679d1e8a7",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -139,6 +174,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "janitor:Janitor: scan vault": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,7 +189,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "00738dfad807df0b",
+  "active": "16dbf8f679d1e8a7",
   "lastOpenFiles": [
     "Software Flashcards V3.zip",
     "Software Flashcards V3.zip.tmp"

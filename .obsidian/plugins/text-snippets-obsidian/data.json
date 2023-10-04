@@ -1,0 +1,16 @@
+{
+  "snippets_file": "base10 : $_{10}$\n\nbase2 : $_{2}$\n\nsub : $_{$end$}$",
+  "snippets": [
+    "base10 : $_{10}$",
+    "base2 : $_{2}$",
+    "sub : $_{$end$}$"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
