@@ -51,4 +51,8 @@ ___
 
 ## [[Development Approaches]]
 
-## [[IEEE754]]
+## [[Data Formats]]
+
+## [[Rights and Responsibilities of of Software Developers]]
+
+## [[Software Development Cycle]]

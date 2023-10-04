@@ -10,7 +10,7 @@ tags:
 
 What is the structure of a relative file?
 ?
-Record Like sections of a fixed length
+Record Like sections of a fixed length. A key is used to determine the placement in file
 
 
 What is the pseudocode of opening a relative file?
@@ -22,6 +22,7 @@ What is the pseudocode of opening a relative file?
 What is the pseudocode for reading from a relative file?
 ?
 "Read *Filename* into *Field1, Field2*, ... ,*FeildN* using *Key*"
+
 
 ### Sequential Files
 
@@ -41,6 +42,7 @@ Where method can be:
 	- Overwrites all data already in the file
 - Append: Adds to the end of the file 
 	- Leaves the contents of the file intact
+
 
 What is the pseudocode used to read from a sequential file?
 ?

@@ -22,18 +22,24 @@ What type of diagram is depicted in the following image?
 
 In a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4), what shape is used to represent external entities?;; A Rectangle
 
+
 In a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4), what shape is used to represent processes?;; A Circle
+
 
 Are flow direction arrows required on a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)?;; Yes
 
+
 Are data labels required on a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)?;; Yes
+
 
 Are databases needed in a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)?;; No
 
 
 Can [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4)lines be curved?;; Yes 
 
+
 Does a [Context Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p4) show the sequence of operations?;; No
+
 
 ___
 ##### [Data Flow Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p5)
@@ -53,15 +59,21 @@ What symbols are used in [Data Flow Diagrams](https://docs.google.com/presentati
 
 Do the lines in [Data Flow Diagrams](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p5) need arrows indicating the direction of data flow?;; Yes
 
+
 Can the lines in [Data Flow Diagrams](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p5) be curved?;; Yes
+
 
 Do [Data Flow Diagrams](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p5) need labels for the data?;; Yes
 
+
 Can [Data Flow Diagrams](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p5) have two directional arrows?;; No
+
 
 Can a data store in a [Data Flow Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p5) be a non-computer storage file e.g. Paper folder?;; Yes
 
+
 Does a [Data Flow Diagram](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p5)show the sequence of operations?;; No
+
 
 ___
 ##### [System Flow Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8)
@@ -75,9 +87,12 @@ What is a [System Flow Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz
 
 Can the lines in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8) be curved?;; No
 
+
 Do the lines in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8) need arrows to indicate direction of flow?;; Yes
 
+
 Can the lines in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8) have two directional arrows? (on line with an arrow on each end);; Yes
+
 
 What is the symbol used in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8) to indicate 'input and output'?
 ?
@@ -151,6 +166,7 @@ What is the symbol used in [System Flow Charts](https://docs.google.com/presenta
 Point down isosceles triangle with the point cut off
 ![](https://i.imgur.com/nZmLNgW.png)
 
+
 What is this symbol used to indicate in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8)?
 ![](https://i.imgur.com/elxmPXT.png)
 ?
@@ -183,6 +199,7 @@ What is the symbol used in [System Flow Charts](https://docs.google.com/presenta
 Diamond
 ![](https://i.imgur.com/Ef9qult.png)
 
+
 What is this symbol used to indicate in [System Flow Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p8) (apparently largly depricated / unused ?
 ![](https://i.imgur.com/5CiGfUw.png)
 ?
@@ -213,28 +230,37 @@ System model to represent the separate modules and subroutines and their relatio
 
 Can [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11) have curved lines?;; No
 
+
 Do [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11) need arrows to indicate direction of data flow?;; No
 
 
 What is the symbol used to represent a module in a [Structure Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; Rectangle
 
-How is data movement represented in a structure chart?;; By Labelled Parameters
+
+How is data movement represented in a structure chart?;; By Labelled Flags and Parameters
+
+ and Flags
 
 How are parameters represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; As small not filled in circles with connected arrows indicating the direction of data movement. Text labels are next to each parameter to describe the data.
 
 
 What are parameters in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; Data movement variables that are parsed between subroutines. 
 
+
 What are flags in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; A control parameter. Like a normal parameter but can only be a Boolean value.
+
 
 How are flags represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; As filled in circles with a connected arrow indicating the direction that the flag is being passed. Has a text label to describe the flag.
 
+
 How are optional subroutine / module calls represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; As Diamonds overlaying the connection line.
+
 
 How are binary decisions represented in [Structure Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p11)?;; as a right angle symbol between the two connection lines of the models/processes that follow the decision.
 
 
 How are loops / repetition represented in structure charts?;; As an arced arrow forming half an oval around the connection line or lines.
+
 
 
 ##### [IPO Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p13)
@@ -249,7 +275,9 @@ What is an [IPO Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCG
 
 Can an [IPO Charts](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p13) process section have multiple instructions?;; Yes. Describes all the instructions in the process
 
+
 Are the data types of inputs and outputs required in an [IPO Chart](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p13)?;; No
+
 
 
 ##### [Data Dictionary](https://docs.google.com/presentation/d/1N50Sd64Cpz3iV9PCGc_Q2Xg1r1Mw5tbVkIET9jfpZk0/edit#slide=id.p15)
@@ -318,8 +346,12 @@ What is a storyboard?
 - Should be detailed enough to determine purpose 
 ![](https://i.imgur.com/sahzNp4.png)
 
+
 How are the links between screens in a storyboard depicted?;; With straight arrows between the button that directs you to the screen and the screen.
 
-Can you use labels to indicate moving to a screen that is incontinent to connect to. e.g. (back to home screen);; Yes
+
+Can you use labels to indicate moving to a screen that is inconvenient to connect to. e.g. (back to home screen);; Yes
+
 
 Can you have labels next to screens in a storyboard to indicate extra information about the screen?;; Yes
+

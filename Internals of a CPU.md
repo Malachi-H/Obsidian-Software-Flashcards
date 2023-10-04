@@ -19,6 +19,7 @@ What are the stages in the fetch execute cycle and what is done at each step?
 4. Store
 	- The result of the instruction is stored in the accumulator or one of the program registers
 
+
 ##### Components
 
 What is a **Data Bus**?
@@ -38,19 +39,23 @@ What does **FPU** mean and what does it do?
 
 What does the **Control Unit** do?
 ?
-It coordinates actions of the processor
+It coordinates the actions of the CPU
+
 
 What are **Registers**?
 ?
 Temporary memory locations
+ in the CPU
 
 What is the **Program Counter**?
 ?
 Stores the address to the location in memory of the next instruction.
 
+
 What is the **Instruction Register**?
 ?
 It stores the instruction currently being executed. It is where the instruction is temporarily stored after it has been fetched from memory.
+
 
 What is the accumulator?
 ?

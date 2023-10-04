@@ -8,12 +8,16 @@ How many bits in the IEEE754 format?
 ?
 32
 
+
 How many bits in the mantissa of the IEEE754 format?
 ?
 23
 
+
 How many bits in the exponent of the IEE754 format?
 ?
+8
+
 
 What are the steps to convert a binary number into the IEEE754 format?
 ?
@@ -25,6 +29,6 @@ What are the steps to convert a binary number into the IEEE754 format?
 	- 01111111${_{2}}$ --> 127${_{10}}$
 	- Therefore, if the exponent is positive, you can simply subtract 1 from the exponent and add it to 10000000${_{2}}$ 
 	- 4${_{10}}$ --> 100${_{2}}$ 
-	- Therefore 4${_{10}}$+127${_{10}}$ = 10000100${_{2}}$ 
+	- Therefore 4${_{10}}$+127${_{10}}$ = 10000011${_{2}}$ 
 4. Drop the 1 at the beginning of the mantissa (number in front of the scientific notation part) and add 0s to make it 23 bits.
 5. Finally, combine the components. S XXXXXXXX MMMMMMMMMMMMMMMMMMMMMMM where S = sign bit, X = exponent + bias of 127, M = mantissa without the 1 the beginning.
