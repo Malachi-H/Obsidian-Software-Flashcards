@@ -7,7 +7,8 @@ the inflation-adjusted value of all final goods and services produced within an 
 Cash Rate: RBA targets a cash rate: The cash rate is the interest rate on unsecured overnight loans between banks - Slide 13
 
 
-**Practical Info**
+**Practical Info** - Slide 15
+Staff
 	Lectures
 		Instructor and Subject Coordinator: A/Prof David Goldbaum 
 		Location: 08.10.097
@@ -20,6 +21,8 @@ Cash Rate: RBA targets a cash rate: The cash rate is the interest rate on unsecu
 		Chris Carter
 		Email: christopher.carter@uts.edu.au 
 		Consultation by appointment
+
+
 
 
 
