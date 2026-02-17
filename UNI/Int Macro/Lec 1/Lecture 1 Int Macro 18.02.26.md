@@ -8,19 +8,23 @@ Cash Rate: RBA targets a cash rate: The cash rate is the interest rate on unsecu
 
 
 **Practical Info** - Slide 15
-Staff
-	Lectures
-		Instructor and Subject Coordinator: A/Prof David Goldbaum 
-		Location: 08.10.097
-		Email: david.goldbaum@uts.edu.au c
-		Consultation by appointment
-	Tutorials 
-		(Tan) Dat Huynh 
-		Email: tandat.huynh@student.uts.edu.au 
-		Consultation by appointment
-		Chris Carter
-		Email: christopher.carter@uts.edu.au 
-		Consultation by appointment
+	Staff
+		Lectures
+			Instructor and Subject Coordinator: A/Prof David Goldbaum 
+			Location: 08.10.097
+			Email: david.goldbaum@uts.edu.au c
+			Consultation by appointment
+		Tutorials 
+			(Tan) Dat Huynh 
+			Email: tandat.huynh@student.uts.edu.au 
+			Consultation by appointment
+			Chris Carter
+			Email: christopher.carter@uts.edu.au 
+			Consultation by appointment
+	Assessments:
+			4x Quizzes @ 10% each
+			Final exam @ 60%
+			
 
 
 
