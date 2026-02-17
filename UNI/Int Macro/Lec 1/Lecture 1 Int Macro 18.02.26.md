@@ -50,7 +50,7 @@ Unemployment: Slides 34 - 37
 		- ![[Pasted image 20260218102301.png]]
 	- Pre 70s unemployment spiked up then down - now it spikes up and slowly goes down in the modern labour market - Slide 35
 
-**Schools of thought** Slide 38 - 
+**Schools of thought** Slide 38 -39
 Classical: Optimal/everything works? (pre-Canes) slide 38
 	- standard view prior to great depression (adam smith)
 	- ![[Pasted image 20260218102902.png]]
@@ -63,10 +63,14 @@ Keynesian slide 39
 	- New Keynesian
 		- add inefficient markets into supply driven models of macro economy
 
-Income Distribution
+**Income Distribution** slide 40 - 43
 	- Last 10-20 yrs income dist became a part of macro econ
 	- Who benefits from growth
-		- Function dist of inc
+		- Function dist of income
+			- dist of income between capital and labour
+		- Personal dist of income
+			- dist of income among individuals
+			- 
 
 
 
