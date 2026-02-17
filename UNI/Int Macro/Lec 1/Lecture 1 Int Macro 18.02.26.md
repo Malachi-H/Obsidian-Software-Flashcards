@@ -46,7 +46,9 @@ Unemployment: Slides 34 -
 		- unemployed: not employed but looking for work in last week
 		- Not in labour force: did not work, not looking
 			- E.g. full time students, incarcerated, military, stay at home parent
-	- The unemployment rate is 
+	- The unemployment rate (UR) is calculated as:
+		- ![[Pasted image 20260218102301.png]]
+	- Pre 70s unemployment spiked up then down - now it spikes up and slowly goes down in the modern labour market - Slide 35
 
 
 **Class objectives** 
