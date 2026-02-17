@@ -29,7 +29,8 @@ GDP: slide 26 -
 			- ![[Pasted image 20260218095218.png]]
 		- Income Approach
 			- A measure of all income earned for *domestically* performed work and non work income earned on *domestic* assets
-			- 
+	- Nominal GDP vs Real GDP
+		- 
 
 **Class objectives** 
 	- Develop formal models with which to understand the macroeconomy
