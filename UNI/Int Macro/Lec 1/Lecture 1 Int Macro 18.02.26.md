@@ -22,7 +22,12 @@ Economic well-being indicators:
 	- Income Distribution
 
 GDP:
-
+	- G&S produced and consumed by population in a given period
+		**- Production approach**
+			- The sum of the value added at each stage of production for everything domestically produced.
+		**- Expenditure approach**
+			- ![[Pasted image 20260218095218.png]]
+		- Income Appro
 
 **Class objectives** 
 	- Develop formal models with which to understand the macroeconomy
