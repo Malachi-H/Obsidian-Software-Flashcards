@@ -70,7 +70,7 @@ Keynesian slide 39
 			- dist of income between capital and labour
 		- Personal dist of income
 			- dist of income among individuals
-			- 
+	- Gini curve - 
 
 
 
