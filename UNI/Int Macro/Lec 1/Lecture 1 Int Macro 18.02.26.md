@@ -52,7 +52,7 @@ Unemployment: Slides 34 - 37
 
 **Schools of thought** Slide 38 - 
 Classical: Optimal/everything works? (pre-Canes)
-	- standard view prior to great depression
+	- standard view prior to great depression (adam smith)
 	- 
 
 
