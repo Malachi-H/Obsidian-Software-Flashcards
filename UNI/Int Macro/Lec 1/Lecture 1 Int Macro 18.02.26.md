@@ -1,4 +1,8 @@
 
+To Do:
+	-
+
+
 **Real GDP**: Real GDP (Gross Domestic Product) is
 the inflation-adjusted value of all final goods and services produced within an economy in a given year, expressed in constant prices - Slide 8
 
@@ -9,6 +13,15 @@ the inflation-adjusted value of all final goods and services produced within an 
 **Notes**:
 Inflation above 2000% **is** hyperinflation
 Canes asked why does there have to be a business cycle - slide 22
+
+
+Economic well-being indicators:
+	- Total output (GDP)
+	- Inflati0n
+	- unemployment
+	- Income Distribution
+
+GDP:
 
 
 **Class objectives** 
