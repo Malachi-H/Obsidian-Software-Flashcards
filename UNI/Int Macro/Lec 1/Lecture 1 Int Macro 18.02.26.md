@@ -32,7 +32,15 @@ the inflation-adjusted value of all final goods and services produced within an 
 			3. attempt tutorial problem sets
 			4. attend tutorials
 			5. repeat 2 & 3
-		
+
+**Topics**
+
+
+
+
+Lec 1 recordings:
+![[Recording 20260218093901.m4a]]
+
 
 
 
