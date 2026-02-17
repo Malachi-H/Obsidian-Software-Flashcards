@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
+                "file": "UNI/Int Macro/Lec 1/Lecture 1 Int Macro 18.02.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lecture 1 Int Macro 18.02.26"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3207752fb8aa0005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1a9d0ba637defb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI/Int Macro/Lec 1/Lecture01_intro.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture01_intro"
             }
           }
         ]
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b4da99681337f0f7",
@@ -210,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,9 +245,10 @@
   },
   "active": "cd380921f8bf35c4",
   "lastOpenFiles": [
-    "Lecture01_intro.pdf",
+    "UNI/Int Macro/Lec 1/Lecture01_intro.pdf",
+    "UNI/Int Macro/Lec 1/Lecture 1 Int Macro 18.02.26.md",
+    "UNI/Int Macro/Lec 1",
     "Untitled.base",
-    "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
     "depreciated",
     "UNI",
     "UNI/Int Micro",
@@ -257,9 +277,7 @@
     "depreciated/attachments/SDD Notes - MrBrightside.pdf",
     "depreciated/attachments/SDD Notes - From class of 2015.pdf",
     "depreciated/attachments/SDD Accelerated HSC Notes 2022-compressed.pdf",
-    "depreciated/attachments/Pseudocode and Flowchart Cheatsheet.pdf",
     "depreciated/attachments/Data Flow Diagram.png",
-    "depreciated/attachments/Context Diagram.jpg",
-    "depreciated/attachments"
+    "depreciated/attachments/Context Diagram.jpg"
   ]
 }
