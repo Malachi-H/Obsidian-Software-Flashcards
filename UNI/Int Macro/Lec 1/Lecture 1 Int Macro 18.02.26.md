@@ -12,7 +12,17 @@ Canes asked why does there have to be a business cycle - slide 22
 
 
 **Class objectives** 
-	- 
+	- Develop formal models with which to understand the macroeconomy
+		- Economic growth
+		- Business cycle fluctuations 
+		- Relations between macroeconomic variables (GDP, Unemployment, Inflation, etc)
+	- Understand different schools of thought 
+		- Classical 
+		- Keynesian 
+		- Monetarists 
+		- Modern thinking incorporates aspects of these
+	- Develop the skills to map events into a model 
+	- Use developed models to inform macroeconomic policy
 
 
 **Practical Info** - Slide 15
