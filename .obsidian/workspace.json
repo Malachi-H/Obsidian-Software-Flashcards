@@ -8,41 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ee98535f59f58a2",
+            "id": "cd380921f8bf35c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f210cd6c9e734b72",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.4.12"
-            }
-          },
-          {
-            "id": "d37df9b7903b38ea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Lecture 1 Int Macro 18.02.26"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lecture 1 Int Macro 18.02.26"
             }
           },
           {
@@ -133,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lecture 1 Int Macro 18.02.26"
             }
           },
           {
@@ -161,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lecture 1 Int Macro 18.02.26"
             }
           },
           {
@@ -232,16 +214,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abcd571e93737f95",
+  "active": "cd380921f8bf35c4",
   "lastOpenFiles": [
+    "Untitled.base",
+    "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
     "depreciated",
     "UNI",
     "UNI/Int Micro",
     "UNI/Int Macro",
     "depreciated/Methods of Installation.md",
     "depreciated/CASE tools.md",
-    "Unit Conversions.md",
-    "System or Solution Models.md",
+    "depreciated/Unit Conversions.md",
+    "depreciated/System or Solution Models.md",
     "depreciated/Sorting Algorithms.md",
     "depreciated/Software Revision.md",
     "depreciated/Software Licences.md",
