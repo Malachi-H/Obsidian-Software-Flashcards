@@ -31,8 +31,11 @@ GDP: slide 26 - 31
 			- A measure of all income earned for *domestically* performed work and non work income earned on *domestic* assets
 	- Nominal GDP vs Real GDP
 
-Inflation: Slide 32 - 
-	- 
+Inflation: Slide 32 - 33
+	- ![[Pasted image 20260218100850.png]]
+
+Unemployment: Slides 34 - 
+
 
 **Class objectives** 
 	- Develop formal models with which to understand the macroeconomy
