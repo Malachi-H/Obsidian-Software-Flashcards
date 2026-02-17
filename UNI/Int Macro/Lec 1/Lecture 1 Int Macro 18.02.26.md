@@ -51,17 +51,17 @@ Unemployment: Slides 34 - 37
 	- Pre 70s unemployment spiked up then down - now it spikes up and slowly goes down in the modern labour market - Slide 35
 
 **Schools of thought** Slide 38 - 
-Classical: Optimal/everything works? (pre-Canes)
+Classical: Optimal/everything works? (pre-Canes) slide 38
 	- standard view prior to great depression (adam smith)
 	- ![[Pasted image 20260218102902.png]]
 	- ^Green highlights are Noble prize winners
-Keynesian
+Keynesian slide 39
 	- Recognises presence of market inefficiencies
 		- ![[Pasted image 20260218103131.png]]
 	- Post Keynesian:
 		- Recognises economy is demand driven and normally not in equilibrium. Distribution of income matters
-		- 
-	- New Keynesian:
+	- New Keynesian
+		- add inefficient markets into supply driven models of macro economy
 
 
 
