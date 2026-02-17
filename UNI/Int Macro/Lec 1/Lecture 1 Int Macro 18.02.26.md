@@ -25,7 +25,7 @@ GDP: slide 26 -
 	- G&S produced and consumed by population in a given period
 		**- Production approach**
 			- The sum of the value added at each stage of production for everything domestically produced.
-		**- Expenditure approach** Slide 27 
+		**- Expenditure approach** Slide 27&28
 			- ![[Pasted image 20260218095218.png]]
 		- Income Approach
 			- A measure of all income earned for *domestically* performed work and non work income earned on *domestic* assets
