@@ -6,6 +6,14 @@ the inflation-adjusted value of all final goods and services produced within an 
 
 **Cash Rate**: RBA targets a cash rate: The cash rate is the interest rate on unsecured overnight loans between banks - Slide 13
 
+**Notes**:
+Inflation above 2000% **is** hyperinflation
+Canes asked why does there have to be a business cycle - slide 22
+
+
+**Class objectives** 
+	- 
+
 
 **Practical Info** - Slide 15
 	- Staff
@@ -49,10 +57,6 @@ the inflation-adjusted value of all final goods and services produced within an 
 	- Contemporary macro theory and models
 	- 
 	
-
-Notes:
-Inflation above 2000% **is** hyperinflation
-
 
 
 Lec 1 recordings:
