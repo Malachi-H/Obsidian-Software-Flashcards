@@ -41,8 +41,17 @@ the inflation-adjusted value of all final goods and services produced within an 
 - 3 Resource constraints
 	- Labour Markets
 	- AD-AS
-- 4 Micro-Foundati
+- 4 Micro-Foundations
+	- Consumption and Investment decisions 
+	- Labour market: Phillips Curve, Market Frictions
+- 5 Macroeconomic topics
+	- Big events and issues
+	- Contemporary macro theory and models
+	- 
 	
+
+Notes:
+Inflation above 2000% **is** hyperinflation
 
 
 
