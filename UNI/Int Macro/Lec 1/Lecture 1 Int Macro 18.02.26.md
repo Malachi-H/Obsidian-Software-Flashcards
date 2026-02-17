@@ -21,13 +21,15 @@ Economic well-being indicators:
 	- unemployment
 	- Income Distribution
 
-GDP:
+GDP: slide 26 - 
 	- G&S produced and consumed by population in a given period
 		**- Production approach**
 			- The sum of the value added at each stage of production for everything domestically produced.
-		**- Expenditure approach**
+		**- Expenditure approach** Slide 27 
 			- ![[Pasted image 20260218095218.png]]
-		- Income Appro
+		- Income Approach
+			- A measure of all income earned for *domestically* performed work and non work income earned on *domestic* assets
+			- 
 
 **Class objectives** 
 	- Develop formal models with which to understand the macroeconomy
