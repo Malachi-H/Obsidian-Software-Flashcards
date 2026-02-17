@@ -35,6 +35,8 @@ Inflation: Slide 32 - 33
 	- ![[Pasted image 20260218100850.png]]
 
 Unemployment: Slides 34 - 
+	- Unemployment has social and economic costs
+		- 
 
 
 **Class objectives** 
