@@ -34,7 +34,7 @@ GDP: slide 26 - 31
 Inflation: Slide 32 - 33
 	- ![[Pasted image 20260218100850.png]]
 
-Unemployment: Slides 34 - 
+Unemployment: Slides 34 - 37
 	- Unemployment has social and economic costs
 		- Has negative consequences on individuals (self-esteem, lost skills)
 		- and Society (gov spending, social tension)
@@ -49,6 +49,14 @@ Unemployment: Slides 34 -
 	- The unemployment rate (UR) is calculated as:
 		- ![[Pasted image 20260218102301.png]]
 	- Pre 70s unemployment spiked up then down - now it spikes up and slowly goes down in the modern labour market - Slide 35
+
+**Schools of thought** Slide 38 - 
+Classical: Optimal/everything works? (pre-Canes)
+	- standard view prior to great depression
+	- 
+
+
+
 
 
 **Class objectives** 
