@@ -53,7 +53,15 @@ Unemployment: Slides 34 - 37
 **Schools of thought** Slide 38 - 
 Classical: Optimal/everything works? (pre-Canes)
 	- standard view prior to great depression (adam smith)
-	- 
+	- ![[Pasted image 20260218102902.png]]
+	- ^Green highlights are Noble prize winners
+Keynesian
+	- Recognises presence of market inefficiencies
+		- ![[Pasted image 20260218103131.png]]
+	- Post Keynesian:
+		- Recognises economy is demand driven and normally not in equilibrium. Distribution of income matters
+		- 
+	- New Keynesian:
 
 
 
