@@ -63,6 +63,11 @@ Keynesian slide 39
 	- New Keynesian
 		- add inefficient markets into supply driven models of macro economy
 
+Income Distribution
+	- Last 10-20 yrs income dist became a part of macro econ
+	- Who benefits from growth
+		- Function dist of inc
+
 
 
 
