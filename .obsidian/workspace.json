@@ -194,9 +194,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "cfa9bf5ba01f6172",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -214,7 +224,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd380921f8bf35c4",
+  "active": "cfa9bf5ba01f6172",
   "lastOpenFiles": [
     "Untitled.base",
     "UNI/Int Macro/Lecture 1 Int Macro 18.02.26.md",
