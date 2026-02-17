@@ -34,7 +34,15 @@ the inflation-adjusted value of all final goods and services produced within an 
 			5. repeat 2 & 3
 
 **Topics**
-
+- 1 Production and Growth
+	- Sources of Growth
+	- Solow (Classic) growth model to explain growth process and the determinants of potential outputs
+- 2 Demand driven models of Business Cycle
+- 3 Resource constraints
+	- Labour Markets
+	- AD-AS
+- 4 Micro-Foundati
+	
 
 
 
