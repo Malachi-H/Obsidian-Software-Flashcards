@@ -41,6 +41,12 @@ Unemployment: Slides 34 -
 	- High unemployment indicates breakdown in markets, and under utilisation of resources.
 		- when there are people who want to work, and who are capable of work. But aren't able to fid it. There is some breakdown within the economy. Also associated with diminished levels of output.
 	- "The unemployment rate bounces around quite a bit" ref slide 36
+	- Gov surveys popuation over 16.
+		- Employed: paid during the last week, even for just one hour
+		- unemployed: not employed but looking for work in last week
+		- Not in labour force: did not work, not looking
+			- E.g. full time students, incarcerated, military, stay at home parent
+	- The unemployment rate is 
 
 
 **Class objectives** 
