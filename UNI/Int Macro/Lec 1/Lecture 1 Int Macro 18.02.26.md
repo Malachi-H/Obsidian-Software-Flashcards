@@ -39,7 +39,8 @@ Unemployment: Slides 34 -
 		- Has negative consequences on individuals (self-esteem, lost skills)
 		- and Society (gov spending, social tension)
 	- High unemployment indicates breakdown in markets, and under utilisation of resources.
-		- when there are people who want to work, and who are capable of work. But 
+		- when there are people who want to work, and who are capable of work. But aren't able to fid it. There is some breakdown within the economy. Also associated with diminished levels of output.
+	- "The unemployment rate bounces around quite a bit" ref slide 36
 
 
 **Class objectives** 
