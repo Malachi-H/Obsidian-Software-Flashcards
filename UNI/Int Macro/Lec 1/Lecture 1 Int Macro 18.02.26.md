@@ -25,6 +25,13 @@ Cash Rate: RBA targets a cash rate: The cash rate is the interest rate on unsecu
 			4x Quizzes @ 10% each
 			Final exam @ 60% (Online AFAIK)
 			Problem Sets @ 0% but suggested
+		Tips:
+		in order to do well in this subject, each week:
+			1. attend class
+			2. study the theory explained in class
+			3. attempt tutorial problem sets
+			4. attend tutorials
+			5. repeat 2 & 3
 		
 
 
