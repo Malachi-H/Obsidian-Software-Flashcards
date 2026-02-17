@@ -76,7 +76,9 @@ Keynesian slide 39
 	- Exponents
 		- ![[Pasted image 20260218104204.png]]
 	- Log
-		- 
+		- ![[Pasted image 20260218104239.png]]
+	- Growth rates
+		- ![[Pasted image 20260218104315.png]]
 
 
 
