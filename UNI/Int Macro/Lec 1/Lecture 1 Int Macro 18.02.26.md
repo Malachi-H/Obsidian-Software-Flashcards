@@ -70,7 +70,13 @@ Keynesian slide 39
 			- dist of income between capital and labour
 		- Personal dist of income
 			- dist of income among individuals
-	- Gini curve - 
+	- Gini curve - difference of real and ideal income distribution
+
+**Math requirements**
+	- Exponents
+		- ![[Pasted image 20260218104204.png]]
+	- Log
+		- 
 
 
 
