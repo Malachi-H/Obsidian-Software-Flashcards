@@ -36,7 +36,10 @@ Inflation: Slide 32 - 33
 
 Unemployment: Slides 34 - 
 	- Unemployment has social and economic costs
-		- 
+		- Has negative consequences on individuals (self-esteem, lost skills)
+		- and Society (gov spending, social tension)
+	- High unemployment indicates breakdown in markets, and under utilisation of resources.
+		- when there are people who want to work, and who are capable of work. But 
 
 
 **Class objectives** 
