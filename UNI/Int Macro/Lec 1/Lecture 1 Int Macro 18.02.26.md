@@ -79,6 +79,8 @@ Keynesian slide 39
 		- ![[Pasted image 20260218104239.png]]
 	- Growth rates
 		- ![[Pasted image 20260218104315.png]]
+![[Recording 20260218104455.m4a]]
+
 
 
 
