@@ -6,7 +6,6 @@
       {
         "id": "53d9125c4f59d6eb",
         "type": "tabs",
-        "dimension": 43.5656836461126,
         "children": [
           {
             "id": "cd380921f8bf35c4",
@@ -21,27 +20,23 @@
               "icon": "lucide-file",
               "title": "Lecture 1 Int Macro 18.02.26"
             }
-          }
-        ]
-      },
-      {
-        "id": "3207752fb8aa0005",
-        "type": "tabs",
-        "dimension": 56.434316353887404,
-        "children": [
+          },
           {
-            "id": "fa1a9d0ba637defb",
+            "id": "bec82e39bdb99547",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNI/Int Macro/Lec 1/Lecture01_intro.pdf"
+                "file": "UNI/Int Micro/Lec 1/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture01_intro"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4da99681337f0f7",
@@ -247,20 +241,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cd380921f8bf35c4",
+  "active": "abcd571e93737f95",
   "lastOpenFiles": [
-    "Recording 20260218104455.m4a",
-    "Pasted image 20260218104315.png",
-    "Pasted image 20260218104239.png",
-    "Pasted image 20260218104204.png",
-    "Pasted image 20260218103131.png",
-    "Pasted image 20260218102902.png",
-    "Pasted image 20260218102301.png",
-    "Pasted image 20260218100850.png",
-    "UNI/Int Macro/Lec 1/Lecture01_intro.pdf",
+    "UNI/Int Micro/Lec 1",
     "UNI/Int Macro/Lec 1/Lecture 1 Int Macro 18.02.26.md",
-    "Pasted image 20260218095218.png",
-    "Recording 20260218093901.m4a",
+    "UNI/Int Micro/Lec 1/Untitled.md",
+    "UNI/Untitled",
+    "UNI/Int Macro/Lec 1/Recording 20260218104455.m4a",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218104315.png",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218104239.png",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218104204.png",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218103131.png",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218102902.png",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218102301.png",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218100850.png",
+    "UNI/Int Macro/Lec 1/Lecture01_intro.pdf",
+    "UNI/Int Macro/Lec 1/Pasted image 20260218095218.png",
+    "UNI/Int Macro/Lec 1/Recording 20260218093901.m4a",
     "UNI/Int Macro/Lec 1",
     "Untitled.base",
     "depreciated",
@@ -286,8 +283,6 @@
     "depreciated/Circuits.md",
     "depreciated/Binary Operations.md",
     "depreciated/attachments/System Flow Chart.png",
-    "depreciated/attachments/System Flow Chart - Input and Output.png",
-    "depreciated/attachments/SDD Notes - MrBrightside.pdf",
-    "depreciated/attachments/SDD Notes - From class of 2015.pdf"
+    "depreciated/attachments/System Flow Chart - Input and Output.png"
   ]
 }
