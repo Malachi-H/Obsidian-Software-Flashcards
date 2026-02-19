@@ -203,12 +203,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "cfa9bf5ba01f6172",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b708fe2957b0b636",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -218,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -239,7 +249,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "abcd571e93737f95",
+  "active": "b708fe2957b0b636",
   "lastOpenFiles": [
     "UNI/Int Macro/Lec 1/recordings",
     "UNI/Int Macro/Lec 1/images",
