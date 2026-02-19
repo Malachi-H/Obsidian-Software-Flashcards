@@ -217,12 +217,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b844e72a3dfdce87",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -243,7 +253,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "abcd571e93737f95",
+  "active": "b844e72a3dfdce87",
   "lastOpenFiles": [
     "UNI/Int Macro/Lec 1/recordings",
     "UNI/Int Macro/Lec 1/images",
