@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a38843abf1ee199",
+        "id": "2a5e4c00eedc9532",
         "type": "tabs",
         "children": [
           {
-            "id": "dbfa2481bccca5cf",
+            "id": "bb96341b95384899",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "UNI/Int Micro/1-5 Consumer Theory/Lec 1/Images/Pasted image 20260218153127.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260218153127"
-            }
-          },
-          {
-            "id": "3700ba8bb0acb520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Int Micro/1-5 Consumer Theory/Lec 1/Lecture 1 Intermediate Microeconomics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 1 Intermediate Microeconomics"
+              "title": "New tab"
             }
           }
         ]
@@ -255,11 +239,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "85ab1a155818937c",
+  "active": "abcd571e93737f95",
   "lastOpenFiles": [
     "UNI/Int Macro/Lec 1/recordings",
     "UNI/Int Macro/Lec 1/images",
